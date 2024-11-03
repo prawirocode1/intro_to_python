@@ -1,0 +1,1 @@
+Ini contoh text yang akan di print_2
